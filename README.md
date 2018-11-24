@@ -30,5 +30,5 @@ Ex:
 https://github.com/brndnmtthws/conky
 
 
-![Sample_Screenshot](https://drive.google.com/uc?export=view&id=1i4kjlYyb3R9p3hvahijnIX48PjeQ1Zbm width="900" height="450")
+![Sample_Screenshot](https://drive.google.com/uc?export=view&id=1i4kjlYyb3R9p3hvahijnIX48PjeQ1Zbm)
 

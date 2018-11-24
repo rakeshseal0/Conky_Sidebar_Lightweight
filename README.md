@@ -1,6 +1,6 @@
 
 
-#A Lightweight Conky Sidebar Theme
+# A Lightweight Conky Sidebar Theme
 
 
 

@@ -6,8 +6,8 @@
 
 ### Prerequisites
 
-*Any Linux Distribution
-*Conky Manager
+* Any Linux Distribution
+* Conky Manager
 
 
 

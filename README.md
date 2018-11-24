@@ -32,5 +32,5 @@ Ex:
 * Inspiration
 * etc
 
-![Sample_Screenshot](https://drive.google.com/uc?export=view&id=1i4kjlYyb3R9p3hvahijnIX48PjeQ1Zbm.jpg?raw=true "ScreenShot")
+![Sample_Screenshot](https://drive.google.com/uc?export=view&id=1i4kjlYyb3R9p3hvahijnIX48PjeQ1Zbm)
 

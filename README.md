@@ -20,8 +20,8 @@
 * Tinker "Sidebar-Conky_Rc" for adding custom name
 
 Ex:
-```/home/rakesh/.conky/Sidebar-Conky/Conky_Sidebar_Lightweight
-```
+/home/rakesh/.conky/Sidebar-Conky/Conky_Sidebar_Lightweight
+
 
 
 
